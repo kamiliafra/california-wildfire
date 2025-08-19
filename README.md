@@ -1,1 +1,1 @@
-# california-wildfire
+# California-wildfire
